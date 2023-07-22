@@ -1,5 +1,5 @@
 # OpenRefine
-Getting into OpenRefine for pre-processing ecological data  
+Brief introduction to OpenRefine for pre-processing ecological data  
   
 Rwanda Workshop  
   
